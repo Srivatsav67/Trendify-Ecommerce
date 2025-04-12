@@ -1,1 +1,6 @@
-export const users = [{ id: 1, name: 'John Doe', email: 'john@example.com' }];
+const users = [
+  { id: 1, name: "Vishal", role: "user", email: "vishal@trendify.com" },
+  { id: 2, name: "Anju", role: "admin", email: "anju@trendify.com" },
+];
+
+export default users;
