@@ -1,1 +1,7 @@
-export const products = [{ id: 1, name: 'T-Shirt', price: 999 }, { id: 2, name: 'Jeans', price: 1999 }];
+const products = [
+  { id: 1, name: "Denim Jacket", price: 1599, category: "Men", brand: "Trendify" },
+  { id: 2, name: "Printed T-Shirt", price: 699, category: "Women", brand: "TrendyFit" },
+  { id: 3, name: "Joggers", price: 999, category: "Men", brand: "UrbanX" },
+];
+
+export default products;
