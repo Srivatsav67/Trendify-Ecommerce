@@ -1,0 +1,1 @@
+export const orders = [{ id: 1, userId: 1, total: 2998, status: 'Shipped' }];

@@ -1,0 +1,1 @@
+export const products = [{ id: 1, name: 'T-Shirt', price: 999 }, { id: 2, name: 'Jeans', price: 1999 }];
